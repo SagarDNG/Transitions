@@ -39,7 +39,7 @@ section div {
     width: 100px;
     background-color: turquoise;
     margin: 20px 0;
-    transition: margin-left 3s .5s;
+    transition: margin-left 1.5s .5s;
 }
 
 section:hover div {
