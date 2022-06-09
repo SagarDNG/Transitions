@@ -4,6 +4,7 @@
     font-family: 'Montserrat', sans-serif;
     font-family: 'Oswald', sans-serif;
     width: 100%;
+    box-sizing: border-box;
 }
 
 h1 {
