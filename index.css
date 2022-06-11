@@ -27,6 +27,7 @@ p {
 p,
 footer {
     margin-left: 2em;
+    text-align: center;
 }
 
 .circle:hover {
