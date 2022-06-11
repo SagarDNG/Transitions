@@ -35,11 +35,11 @@ section div {
     width: 100px;
     background-color: turquoise;
     margin: 20px;
-    transition: margin-left 5s .5s;
+    transition: margin-left 1s;
 }
 
 section:hover div {
-    margin-left: 90em;
+    margin-left: 300px;
 }
 
 div:nth-of-type(1) {
